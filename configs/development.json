@@ -1,0 +1,4 @@
+{
+  "API_BASE_URI": "http://localhost:3000/apis/v1",
+  "MONGODB_URI": "localhost:27070/carpooler"
+}

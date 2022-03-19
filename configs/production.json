@@ -1,0 +1,4 @@
+{
+  "API_BASE_URI": "https://apis.carpooler.lk/v1",
+  "MONGODB_URI": "REPLACE_WITH_CORRECT_VALUES"
+}
